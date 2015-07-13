@@ -1,0 +1,5 @@
+C:\Users\IT\SkyDrive\Projects\JustRunServer\JustRunServer\JustRunServer\bin\JustRunServer.dll
+C:\Users\IT\SkyDrive\Projects\JustRunServer\JustRunServer\JustRunServer\bin\JustRunServer.pdb
+C:\Users\IT\SkyDrive\Projects\JustRunServer\JustRunServer\JustRunServer\obj\Debug\JustRunServer.csprojResolveAssemblyReference.cache
+C:\Users\IT\SkyDrive\Projects\JustRunServer\JustRunServer\JustRunServer\obj\Debug\JustRunServer.dll
+C:\Users\IT\SkyDrive\Projects\JustRunServer\JustRunServer\JustRunServer\obj\Debug\JustRunServer.pdb
